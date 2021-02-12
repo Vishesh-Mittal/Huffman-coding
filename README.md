@@ -5,6 +5,5 @@ A Huffman code is a particular type of optimal prefix code that is commonly used
 
 The steps i followed:
 
-      a)Encoding:The steps I followed were Making Frequency Dictionary,Constructing Heap, Constructing Binary Tree,Building Codes ,Encoding Text,Padding Encoding Text Convert,                                       Into Bytes,Compressing File.
-      
+      a)Encoding:The steps I followed were Making Frequency Dictionary,Constructing Heap, Constructing Binary Tree,Building Codes ,Encoding Text,Padding Encoding Text Convert,and coverting them into bytes then comperessing file
       b)Decoding: Decompressing Text ,Remove Padding, Decoding Text.
